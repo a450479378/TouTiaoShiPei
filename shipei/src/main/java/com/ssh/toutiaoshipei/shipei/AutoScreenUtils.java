@@ -1,4 +1,4 @@
-package com.ssh.toutiaoshipei.toutiaoshipei;
+package com.ssh.toutiaoshipei.shipei;
 
 import android.app.Application;
 import android.content.ComponentCallbacks;
